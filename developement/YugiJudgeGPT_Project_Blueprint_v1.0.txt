@@ -1,0 +1,113 @@
+YugiJudgeGPT - Project Blueprint
+===============================
+
+Vision:
+-------
+An AI-powered Yu-Gi-Oh! assistant that interprets natural-language player questions,
+retrieves accurate rulings from trusted sources, and provides judge-like explanations,
+with high reliability and verifiable citations.
+
+Core Goals:
+-----------
+- Accurately parse player questions
+- Retrieve rulings from trusted sources
+- Explain clearly (like a judge would)
+- Respect IP and use proper citations
+- Be beginner-friendly but tournament-accurate
+
+Tech Stack:
+-----------
+- Language Model: GPT-4 (OpenAI API)
+- Card Data: YGOProDeck API
+- Rulings: db.ygoresources.com, Rulebook PDFs, Reddit
+- Bot Framework: Python
+- UI: Streamlit or Gradio
+- Hosting: Hugging Face Spaces, Discord bot (optional)
+- Storage: JSON / SQLite, FAISS/Chroma for vector search
+
+Folder Structure:
+-----------------
+YugiJudgeGPT/
+├── data/                    # Rulings, card info, scraped resources
+│   ├── rulings.json
+│   ├── rulebook_sections.txt
+│   └── reddit_cases.json
+├── api/                     # External API access modules
+│   └── ygoprodeck_api.py
+├── retrieval/               # Index + search logic (RAG, vector DB)
+│   ├── retriever.py
+│   └── vector_store.pkl
+├── llm/                     # Prompts + LLM query functions
+│   └── generate_response.py
+├── interface/               # UI/UX (CLI, Streamlit, Discord)
+│   ├── streamlit_ui.py
+│   └── discord_bot.py
+├── test/                    # Evaluation/test rulings
+│   └── sample_judge_questions.json
+├── utils/                   # Helpers for parsing, formatting, logging
+│   └── parse_ruling_text.py
+├── main.py                  # Entrypoint for running the bot
+├── requirements.txt
+└── README.md
+
+Development Roadmap:
+--------------------
+Phase 1 – MVP (Local Script)
+- [ ] Fetch card data using YGOProDeck API
+- [ ] Scrape + store ruling data from db.ygoresources.com
+- [ ] Parse official rulebook into searchable sections
+- [ ] Build function: input question → return matching ruling
+- [ ] Use OpenAI API to rephrase and explain rulings
+- [ ] Output answer + source + confidence
+
+Phase 2 – Web UI or CLI
+- [ ] Build chatbot interface with Streamlit or Gradio
+- [ ] Accept text question, run retrieval + LLM
+- [ ] Display ruling response + confidence + citation
+
+Phase 3 – Community Validation
+- [ ] Invite judges to test the bot with known questions
+- [ ] Collect feedback on accuracy and clarity
+
+Phase 4 – Discord Bot or Hosted App
+- [ ] Deploy as a Discord bot or to Hugging Face
+- [ ] Explore monetization via freemium features
+
+Data Sources:
+-------------
+- YGOProDeck API – Official card text
+- db.ygoresources.com – Card-specific rulings
+- Official Rulebook PDF – Core rule structure
+- Reddit/Facebook – Real ruling scenarios and clarifications
+- Judge documents – Complex mechanics and PSCT logic
+
+Prompt Strategy:
+----------------
+"You are a Yu-Gi-Oh! ruling assistant. Your job is to explain card interactions based only
+on the information provided. If the ruling is unclear or missing, say 'Please consult a judge.'
+Always cite your sources. Do not make assumptions."
+
+Safety Measures:
+----------------
+- [ ] Fallback response when data is unclear or missing
+- [ ] Flag questions needing judge verification
+- [ ] Color-code responses by confidence level (Official, Community, Inferred)
+
+Long-Term Features:
+-------------------
+- Combo legality simulator
+- Deck legality checker
+- Tournament-prep flashcard mode
+- Ruling history archive by card
+
+Monetization Ideas:
+-------------------
+- Free access with optional Patreon/Ko-fi
+- Premium Discord commands or combo tools
+- Offline or downloadable judge companion app
+- Sponsorships or streamer integration
+
+Final Note:
+-----------
+This is a community-first, rule-accurate, beginner-friendly tool designed to enhance understanding
+and fair play in Yu-Gi-Oh! — built for the love of the game.
