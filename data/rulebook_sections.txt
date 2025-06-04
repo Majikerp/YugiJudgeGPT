@@ -1,0 +1,329 @@
+# OFFICIAL RULEBOOK
+Version 10.0
+English Edition
+
+# What is the Yu-Gi-Oh! TRADING CARD GAME?
+
+With the Yu-Gi-Oh! TRADING CARD GAME you can take part in the
+exciting card game action seen in the family of Yu-Gi-Oh! TV and
+comic mega-hits.
+
+In this game, two players Duel each other using a variety of Monster,
+Spell, and Trap Cards to defeat their opponent’s monsters and be the
+first to drop the other’s LP (Life Points) to 0.
+
+Everything you need to start playing is in this Deck, but there are
+thousands more cards to choose from, so collecting additional cards
+in Booster Packs will let you customise your Deck and increase your
+chances of winning!
+
+This is the official Yu-Gi-Oh! TRADING CARD GAME rule book. It is
+important to learn how to play correctly, so you should read this
+rule book before playing if you are new to the game. Understanding
+the rules will help you make the best use of your cards, so keep
+the rule book handy during your first few games. You can also visit
+www.yugioh-card.com for more information.
+
+# ABOUT THE GAME
+
+## CREATE YOUR OWN DECK
+
+With thousands of cards to choose from, you can create and
+customise your own Deck with your favourite cards. Every Duellist
+will have their own unique Deck, completely different from every
+other Duellists Deck, which makes it really exciting to play!
+
+## BATTLE WITH FANTASTIC MONSTERS & GREAT COMBOS
+
+Even if a card does not have enough power on its own,
+it may become powerful when combined
+with other cards. It is fun to collect all the
+different cards available and create your
+own combos, then unleash them in a Duel.
+
+## POWER UP YOUR DECK WITH BOOSTER PACKS
+
+Booster Packs are released every few months,
+bringing new cards and new combos to add new
+strength to your Deck. Duels evolve every time
+a new Booster Pack is released, keeping your
+Duels cool and exciting.
+
+# GETTING STARTED
+
+## Things you need to Duel
+
+### Deck (40 to 60 cards)
+
+Assemble your favorite cards into a Deck that follows these rules:
+* The Deck must be 40 to 60 cards.
+* You can only have up to 3 copies of the same card in your Deck,
+Extra Deck and Side Deck combined.
+
+Also, some cards are Forbidden, Limited or Semi-Limited in official
+tournaments.
+
+Try to keep your Deck close to the 40-card minimum. Having a Deck
+with too many cards makes it hard to draw your best cards when you
+need them. This Deck is called your Main Deck.
+
+### Extra Deck (0 to 15 cards)
+
+This Deck consists of Xyz Monsters, Synchro Monsters and Fusion
+Monsters, which can be used during the game if you meet certain
+requirements. The rules for Extra Decks are:
+* You can have up to 15 cards in the Extra Deck.
+* The Extra Deck can contain Xyz Monsters, Synchro Monsters and
+Fusion Monsters, in any combination.
+* These cards are not counted towards the 40-card minimum limit
+of your Main Deck.
+
+### Side Deck (0 to 15 cards)
+
+This is a separate Deck of cards you can use to change your Deck during
+a Match. After each Duel in a Match, you can swap any card from
+your Side Deck with a card from your side Deck and/or Extra Deck to
+customise your strategy against your opponent. The number of cards in
+your Side Decks must not exceed 15. The number of cards in your Side
+Deck before and after you swap any cards must be exactly the same.
+
+### Additional items you may need
+
+* Coin: Some cards require a coin toss. If you play with these,
+have a coin ready to flip.
+* Dice: Just like the coin, there are some cards that need a die roll.
+If you play with these, have a standard die ready with numbers 1 through 6.
+* Counters: Some cards will require markers (called counters) to keep
+track of things like the number of turns, or a card’s power level.
+You can use small objects like glass beads, paper clips, or pennies
+for the counters, which are then placed on these face-up cards.
+* Monster Tokens: Tokens are used to represent monsters that can be
+created by card effects. Any object used for a Token needs to have
+two distinct ways to place it that can clearly indicate the monster’s
+battle position.
+
+### Items which can help during a Duel
+
+* Calculator: LP changes quickly during a Duel. It’s smart to use a
+calculator to keep track of your LP. During important Duels, 
+you should track your LP on paper as well to be extra-careful.
+* Card Sleeves: Plastic sleeves can prevent your cards from getting bent
+or scratched. If you use card sleeves, they all have to be the same so your cards aren’t marked.
+
+# THE GAME MAT
+
+The Game Mat helps you organise your cards
+during a Duel. When you use your cards you place
+them on the Game Mat. Different kinds of cards
+are placed in different Zones.
+
+Each Duellist needs their own Game Mat; place
+them together while Dueling. This combined space
+is known as “the ﬁeld.” The Game Mat contained
+in this product is just for your half of the ﬁeld.
+The cards you “control” are the cards on your side
+of the ﬁeld.
+
+You can also Duel without using the Game Mat as
+long as you remember where to place the cards.
+
+## Main Monster Zone
+
+This is where you put your monsters when they’re played.
+You can have up to 5 cards here. There are 3 ways to
+position your Monster Cards: face-up Attack Position,
+face-up Defense Position, and face-down Defense Position.
+Place the card upright for Attack Position, and sideways
+for Defense Position.
+
+## Spell & Trap Zone / Pendulum Zone
+
+This is where you put Spell & Trap Cards. You can have up to
+5 cards here. You place them here face-up to activate them,
+or place them face-down. Pendulum Monster Cards can be
+activated in the leftmost and rightmost zones as Spells. This
+causes the zone you use to also become a Pendulum Zone
+for as long as the Pendulum Monster Card is there. (See
+page 23 for details on Pendulum Monster Cards.)
+
+## Graveyard (GY)
+
+When Monster Cards are destroyed, and when Spell &
+Trap Cards are used, they’re sent face-up to this space.
+The contents of both players’ Graveyards are public
+knowledge, and your opponent can look through yours at
+any time during the Duel. The order of the cards in the
+Graveyard should not be changed. Graveyard is shortened
+in the card text to “GY”.
+
+## Deck
+
+Your Deck is placed face-down in this space. You draw cards
+from here to add to your hand. If a card effect requires you
+to reveal cards from your Deck, or look through it, shuffle
+it and put it back in this space afterwards.
+
+## Field Zone
+
+Special Spell Cards called Field Spell Cards are played here.
+Each player can have 1 Field Spell Card on their own side
+of the ﬁeld. To use another Field Spell, send your previous
+one to the Graveyard. Field Spell Cards do not count
+towards the 5-card limit of your Spell & Trap Zone.
+
+## Extra Deck
+
+Place your Extra Deck face-down in this space. You can
+look at the cards in your own Extra Deck during the game.
+During a Duel, Extra Deck Monsters may be Summoned
+to the ﬁeld from here using special methods. Pendulum
+Monster Cards that would be sent from the ﬁeld to the
+Graveyard are placed face-up here.
+
+## Extra Monster Zone
+
+This is where you put your monsters that are Summoned to
+the ﬁeld by special methods from the Extra Deck, like Link
+Monsters and Fusion Monsters. Normally, each player can
+only use 1 of these zones. A monster placed in this zone
+does not count towards the 5-monster limit of your Main
+Monster Zone.
+
+# Game Cards
+
+## Monster Cards
+
+### HOW TO READ A CARD
+
+* Card Name: This is the card’s name. When a card name is mentioned in card
+text it appears in quotations. If cards have the same name, they are
+considered to be the same card.
+* Level: Count the number of stars under the card's name to ﬁnd out the monster’s Level.
+For Xyz Monsters, the number of stars is the Rank of the monster, and is on left.
+* Attribute: Every monster has an Attribute. This Attribute is sometimes
+important for card effects.
+* Type: Monsters are divided into various Types. Some monsters with
+specific abilities will have additional information here at the top of the Card Description, next to their Type.
+* Card Number: A card’s identification number is found under the card's art and above the Card Description.
+This number is useful for collecting, and for sorting your collection.
+* ATK (Attack Points) / DEF (Defense Position): ATK is a monster’s Attack Points and DEF is a monster’s Defense
+Points. High Attack and Defense Points are good when battling!
+* Card Description: Card effects are written here, describing the monster’s special
+abilities and how to use them. Normally, the effects of monsters
+cannot be used while they are Set face-down on the ﬁeld. Yellow
+Normal Monster Cards do not have effects, and have a description
+of them written here that does not affect the game.
+
+### WHAT IS A MONSTER CARD?
+
+Monster Cards are used to battle and defeat your opponent. Battles
+between Monster Cards are the foundation of any Duel.
+
+There are many kinds of Monster Cards. This game is more than a
+simple slug fest, so monsters with high Attack and Defense Points will
+not be enough. There are also monsters with strong special effects
+even though their ATK and DEF points are low. Therefore, your
+success in a Duel depends on how skilfully you can make use of the
+different kinds of cards. Let’s take a look at the different kinds of
+monsters.
+
+* Normal Monster: These are basic Monster Cards without special abilities. Many
+Normal Monsters have higher Attack Points and Defense Points than Effect Monsters,
+instead of having special abilities.
+* Effect Monsters: An Effect Monster is a monster that has special abilities.
+The effects of these monsters are split into four categories.
+    * Continuous Effect
+    * Ignition Effect
+    * Quick Effect
+    * Trigger Effect (including Flip)
+
+#### Continuous Effect
+
+This effect is active while the Effect Monster Card is face-up on
+the ﬁeld. The effect starts when the face-up monster appears
+on the ﬁeld, and ends once that monster is gone or is no longer
+face-up; there is no trigger for its activation. These monsters
+are most useful if you have a strategy to protect them while
+they are on the ﬁeld.
+
+Example: Monsters with 2000 or less ATK cannot declare an attack.
+
+#### Ignition Effect
+
+You use this type of effect just by declaring its activation during
+your Main Phase. There are some Ignition Effects that have a cost to activate,
+like discarding cards from your hand, Tributing a monster, or paying LP.
+Because you can choose when to activate this type of effect, it’s easy to
+create combos with them.
+
+Example: You can Tribute this card, then target 1 monster
+on the ﬁeld; destroy that target.
+
+#### Quick Effect
+
+These are special monster effects that you can activate even
+during your opponent’s turn. These types of effects have a
+Spell Speed of 2, even though all other monster effects have a
+Spell Speed of 1. Since it’s difficult for your opponent to predict
+these cards, they can give them an unexpected surprise.
+
+(Formerly called Multi-Trigger Effects.)
+
+#### Trigger Effect
+
+These effects are activated at specific times, such as “during
+the Standby Phase” or “when this monster is destroyed”. These
+cards can make for some great combos, but it’s easier for your
+opponent to predict what will happen, so they might try to stop you.
+
+Example: When this card is destroyed by battle and sent to the
+Graveyard: Target 1 card on the ﬁeld; destroy that target.
+
+#### Flip Effect
+
+Flip effect is a part of the Trigger Effect.
+
+This is an effect that is activated when a face-down card is
+ﬂipped face-up. This can happen when it is Flip Summoned,
+attacked while face-down, or ﬂipped face-up by a card effect.
+These effects start with the word “FLIP:” on the card. When
+you have a face-down monster, your opponent must be wary
+because they don’t know if it has a Flip effect or not.
+
+Example: FLIP: Draw 1 card.
+
+### LINK MONSTERS
+
+A Link Monster is a new kind of monster with the ability to increase
+the number of monsters you can Summon from your Extra Deck.
+In addition to the 1 Extra Monster Zone you can usually use, you can
+also Summon monsters from the Extra Deck to any of your Main
+Monster Zones that has a Link Monster’s red arrow pointing to it.
+
+Link Arrows - A Link Monster can apply its effects on cards or zones that its lit-up,
+red Link Arrows point to. When a Link Monster’s red arrow points to a monster,
+those monsters are “linked”. When two Link Monsters have red arrows that point
+at each other, they are “co-linked”.
+
+Link Materials - These are the Link Materials you need to Summon this
+Monster. Use this “recipe” printed under the card's Type to Link Summon the monster.
+
+LINK Rating - This is the number of Link Arrows that monster has and the
+number of monsters needed to Summon it.
+
+#### HOW TO LINK SUMMON
+
+1. Check the material of the Link Monster you want to Summon.
+2. During your Main Phase, declare that you are Link Summoning,
+send a number of face-up monsters from your ﬁeld to the
+Graveyard equal to the Link Rating of that Link Monster. They
+must also match the material requirements listed in the monster’s
+“recipe” written on the card.
+3. Place the Link Monster from your Extra Deck in the Extra Monster
+Zone, or one of your Main Monster Zones that another Link
+Monster is pointing to.
+
+If 2 Extra Monster Zones are available, you can choose either one to
+Summon your monster. If there is a Link Monster already on the ﬁeld,
+you can Link Summon a monster in one of your zones it points to.
+
